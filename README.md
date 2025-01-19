@@ -1,6 +1,9 @@
-# GYM - сайт от учебного проекта AnnBlock.ru
+# GYM - сайт от учебного проекта frontendblok
 
-* [Демо сайта](https://github.com/ReshetnikovDmitriy/Site_Gym/index.html)
+**Простой, но красивый сайт. Применены технологии создающие фундамент для дальнейшего развития в вёрстке и в целом во фронтенд разработке.**
+
+* [Ссылка на сайт](https://reshetnikovdmitriy.github.io/Site_Gym/index.html)
+* [Учебная платформа](https://frontendblok.com/)
 
 ### В проекте были использованы: 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=FFFFFF)
